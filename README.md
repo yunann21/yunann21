@@ -5,7 +5,7 @@
 <p align="left">My name is Anna and I'm a iOS Developer, from Russia </p>
 
 <div align="left">
-  <a href="yunann21@mail.ru" target="_blank">
+  <a href="mailto:yunann21@mail.ru" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
   <a href="https://t.me/yunann21" target="_blank">
